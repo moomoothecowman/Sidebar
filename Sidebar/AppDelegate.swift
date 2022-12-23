@@ -1,16 +1,9 @@
-//
-//  AppDelegate.swift
-//  Sidebar
-//
-//  Created by Tyler Welch on 12/23/22.
-//
-
 import Cocoa
 
 @main
 class AppDelegate: NSObject, NSApplicationDelegate {
 
-    
+
 
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
@@ -27,4 +20,3 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
 
 }
-
